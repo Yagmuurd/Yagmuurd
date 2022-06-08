@@ -6,11 +6,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yagmuurd&label=Profile%20views&color=0e75b6&style=flat" alt="yagmurdogan" /> </p>
 
 
- I'm currently working on Phyton. <br>
- I am currently studying phyton.</a><br><br>
- I am publishing content on my medium account. If you are interested, I welcome you to <a href="https://medium.com/@yagmurdod" target="_blank">my page</a><br> <br> 
+ I'm currently working on Phyton. <br> <br> 
+ I am publishing content on my medium account. If you are interested, I welcome you to <a href="https://medium.com/@yagmurdod" target="_blank">my page.</a><br> <br> 
  I love researching, animals, illustration and squash <br> <br>
- Learning, and discovering new experiences are among the passions 💜
+ Searching and having new experiences are among the passions 💜
 
  I'm one of the members of <a href="https://sisterslab.co/">SistersLab</a> community.<br>
 
