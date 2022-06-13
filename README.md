@@ -7,7 +7,7 @@
 
 
  Python konusunda kendimi geliştirmek üzerine çalışıyorum. <br> <br> 
- Her hafta Medium hesabımda Python ile ilgili içerik üretiyorum. Eğer ilgilenirseniz <a href="https://medium.com/@yagmurdod" target="_blank">buradan ulaşabilirsiniz .</a><br> <br> 
+ Her hafta Medium hesabımda Python ile ilgili içerik üretiyorum.<br> <br> 
  Yeni bilgileri araştırmak, hayvanlar, squash oynamak ilgi alanlarım arasındadır. <br> <br>
  Yeni deneyimler kazanmak ve kendimi keşfetmek en büyük tutkularım 💜
 
