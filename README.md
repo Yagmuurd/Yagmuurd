@@ -19,7 +19,7 @@
 <a href="https://www.linkedin.com/in/ya%C4%9Fmur-d-6504961b2/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/107046026/173368152-84a9a2b0-3518-4d96-ae9b-bb33adbe0e72.png" height="25" width="100" /></a>
 <a href="https://medium.com/@yagmurdod" target="blank"><img align="center" src="https://user-images.githubusercontent.com/107046026/173368213-4c4fafa0-3de7-48ea-bb06-331d6874bf3f.png" height="30" width="120" /></a>
 
-<a href="yagmuurdd@gmail.com" target="_blank"><img src="https://user-images.githubusercontent.com/107046026/173369874-a62e7e0a-a20c-4ee9-b1b9-60457c50fc00.png" height="50" width="100" /></a>
+<a href="mail:yagmuurdd@gmail.com" target="_blank"><img src="https://user-images.githubusercontent.com/107046026/173369874-a62e7e0a-a20c-4ee9-b1b9-60457c50fc00.png" height="50" width="100" /></a>
 </p>
 
 <b>Recent posts on Medium!</b>
