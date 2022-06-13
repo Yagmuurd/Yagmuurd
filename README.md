@@ -16,8 +16,8 @@
 <p align="center">
 <h3 align="left">Bana bu adreslerden ulaşabilirsiniz:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ya%C4%9Fmur-d-6504961b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="30" /></a>
-<a href="https://medium.com/@yagmurdod" target="blank"><img align="center" src="![resim](https://user-images.githubusercontent.com/107046026/173367408-15cc5da3-3de0-4b92-aeac-04b103633760.png)" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/ya%C4%9Fmur-d-6504961b2/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/107046026/173368152-84a9a2b0-3518-4d96-ae9b-bb33adbe0e72.png" height="25" width="100" /></a>
+<a href="https://medium.com/@yagmurdod" target="blank"><img align="center" src="https://user-images.githubusercontent.com/107046026/173368213-4c4fafa0-3de7-48ea-bb06-331d6874bf3f.png" height="30" width="120" /></a>
 </p>
 
 <b>Recent posts on Medium!</b>
