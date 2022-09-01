@@ -21,7 +21,7 @@
 &nbsp; <a href="mailto:yagmuurdd@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://user-images.githubusercontent.com/107046026/173369874-a62e7e0a-a20c-4ee9-b1b9-60457c50fc00.png" height="50" width="100"/></a>
 </p>
 
-<b>En son yayınlanan Medium yazılarım!</b>
+<b>Latest Medium posts!</b>
 
 
 <a target="_blank" href="https://medium.com/@yagmurdod/veri-yap%C4%B1lar%C4%B1-tuple-661399cf2c57"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@yagmurdod/0"></img></a>
