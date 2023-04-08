@@ -10,8 +10,6 @@
  Searching for new experiences, animals and playing squash are among my interests.<br> <br>
  Discovering myself and my talents are my biggest passions 💜
 
-  <a href="https://sisterslab.co/"></a> I became a part of SistersLab after being Python academy participant in the community.<br>
-
 <p align="center">
 <h4 align="left">You can reach me at these addresses:</h4>
 <p align="left">
